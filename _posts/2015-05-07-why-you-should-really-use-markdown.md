@@ -18,11 +18,11 @@ Present day --- I still get pains in my right wrist up to the base of my middle/
 
 ###Start Caring About Keystrokes
 
-Bren Orenstein has a talk about using Vim to save time. And in that talk he mentioned how many keystrokes it takes to save a file in Vim (5) and how many times a developer might save a file in a year (250,000). That being said each year, saving files alone, we are using 1,250,000 keystrokes. 
+Ben Orenstein has a great <a href="https://youtu.be/SkdrYWhh-8s?t=239" target="new">talk about using Vim to save time</a>. And in that talk he mention how many keystrokes it takes to save a file in Vim (5) and how many times a developer might save a file in a decade (250,000). That being said each decade, saving files alone, we are using 1,250,000 keystrokes. 
 
 Wow, I just gave myself arthritis writing that.
 
-With my wrist, I started to appreciate the importance of keystroke management. Go ahead and jump over to his talk to pick up some speed techniques in Vim, and also a good mindset on looking to the future of many years of healthy programming.
+With my wrist problems, I started to appreciate the importance of keystroke management. Go ahead and jump over to his talk to pick up some speed techniques in Vim, and also a good mindset on looking to the future of many years of healthy programming.
 
 ###So why use Markdown?
 
