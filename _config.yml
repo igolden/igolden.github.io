@@ -5,11 +5,12 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
+title:               Ian Golden
+tagline:             Entrepreneur. Developer. Artist.
+url:                 http://iangolden.com
+paginate:            3
 baseurl:             ""
+description:        The thoughts and ideas of Ian Golden. 
 
 # Assets
 #
@@ -20,11 +21,10 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Ian Golden
+  url:               https://iangolden.com
+  email:             ian@iangolden.com
 
 # Custom vars
 version:             1.0.0
-github:
-  repo:              https://github.com/poole/poole
+github:             igolden
