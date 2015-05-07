@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why You Should Really Use Markdown
+title: Why You Should <em>Really</em> Use Markdown (and care about Keystrokes)
 ---
 
 Spoiler alert... It's because your time *actually matters*.
@@ -22,15 +22,15 @@ Ben Orenstein has a great <a href="https://youtu.be/SkdrYWhh-8s?t=239" target="n
 
 Wow, I just gave myself arthritis writing that.
 
-With my wrist problems, I started to appreciate the importance of keystroke management. Go ahead and jump over to his talk to pick up some speed techniques in Vim, and also a good mindset on looking to the future of many years of healthy programming.
+With my wrist problems, I started to appreciate the importance of keystroke management. Go ahead and jump over to <a href="https://youtu.be/SkdrYWhh-8s?t=239" target="new">Ben's talk</a> to pick up some speed techniques in Vim, and also a good mindset on looking to the future of many years of healthy programming. I completely agree with Ben and his thoguht process behind finding ways to shorten your typing and increase your output.
 
 ###So why use Markdown?
 
-Because Markdown ultimately saves you time and keystrokes, making you a faster programmer with more longevity. Stop destroying your hands/wrists with mindless code reptition, ESPECIALLY if you're using jekyll daily like I do.
+Because Markdown ultimately saves you time and keystrokes, making you a faster programmer with more longevity. Stop destroying your hands/wrists with mindless code repetition, ESPECIALLY if you're using jekyll daily like I do.
 
 ###How does Markdown save you time?
 
-Markdown is literally designed around the most reptitive tasks in formatting online --- text editing. That being said if you are a developer with a blog, you can save yourself so much headache and stay in the <s>terminal</s> *heaven* while you work.
+Markdown is literally designed around the most repetitive tasks in formatting online --- text editing. That being said if you are a developer with a blog, you can save yourself so much headache and stay in the <s>terminal</s> *heaven* while you work.
 
 If you're a career developer, longevity and speed need to be two of your priorities. As you continue to improve those areas, you'll be more stable and able to take care of yourself and your family.
 
