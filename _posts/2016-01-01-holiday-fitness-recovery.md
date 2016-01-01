@@ -3,9 +3,9 @@ layout: post
 title: Holiday Fitness Recovery Plan 
 ---
 
-Let's face it, the holidays are a time for relaxing and enjoying the company of friends and family. That, however, doesn't really go hand in hand with being in pretty sick shape.
+Let's face it, the holidays are a time for relaxing and enjoying the company of friends and family. That, however, doesn't really go hand in hand with being in sick shape.
 
-So the holidays are over, and it's time to get back on track?
+So the holidays are over, and it's time to get back on track.
 
 > ###But Ian, why? What are you training for?
 
