@@ -9,7 +9,7 @@ So the holidays are over, and it's time to get back on track.
 
 > ###But Ian, why? What are you training for?
 
-I'm training for life - and I'm sick of getting asked that. I don't need a reason to be in great shape, that's a ***requirement of success*** to me. Plus being in shape and eating right makes *every other* aspect of your life easier.
+I'm training to be a badass entrepreneur - and I'm sick of getting asked that. I don't need a reason to be in great shape, that's a ***requirement of success*** to me. Plus being in shape and eating right makes *every other* aspect of your life easier.
 
 ---
 
