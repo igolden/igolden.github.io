@@ -1,0 +1,11 @@
+/Users/igolden/.rubies/ruby-2.2.3/bin/ruby -r ./siteconf20160101-37272-pzpnp2.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling posix-spawn.c
+linking shared-object posix_spawn_ext.bundle
+
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 posix_spawn_ext.bundle ./.gem.20160101-37272-6nni4g
