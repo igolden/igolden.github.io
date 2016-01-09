@@ -84,7 +84,7 @@ Was up past 2am 4 out of 7 nights. Not the right way to grow muscle. Going to ge
 
 ##The Results
 
-<img src="img/week-1.jpg">
+<img src="/img/week-1.jpg">
 
 Sitting around 178-180. My mind to muscle connection is coming back to life, and I feel good. In the time difference I trained my all my muscle groups twice, and I can see how its affected my body.
 
