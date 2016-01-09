@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 1 Recap - Holiday Fitness Recovery
+title: Week 1 Recap - HFR 
 ---
 
 A week has passed of consistent nutrition and dieting. Overall, it feels great to be back on a consistent training schedule and meal plan. I think it really brings structure to my life as an entrepreneur.
