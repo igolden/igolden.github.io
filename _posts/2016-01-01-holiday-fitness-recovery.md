@@ -106,7 +106,6 @@ Vitamins and supplementation are just the final 2%. I know a lot of people who L
 
 My main goal is to set myself up for another year of growth in fitness. In the picture below you'll see my current conditioning, about 1 mo off training/diet, and left is when I was well conditioned before I bulked in 2015. My goal is to prepare myself to be back in that conditioning, and get as close possible to it, by the end of January.
 
-<img src="/img/progress.jpg">
 
 ###Conclusion
 
