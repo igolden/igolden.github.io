@@ -17,4 +17,4 @@ Do you get excited when people ask you what you do? When you tell people about y
 
 For me, it's always exciting to offer new services and find new clients. So that's what I do when I get comfortable.
 
-- IG
+IG
