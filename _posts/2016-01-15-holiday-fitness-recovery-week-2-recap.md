@@ -73,6 +73,8 @@ Managed to get around 6 hrs of sleep every night. Could've been better if I made
 ##The Results
 
 <img src="/img/week-2.jpg">
+<br />
+<img src="/img/week-2-1.jpg">
 
 Weight is flucuating between 176-178. Once during this week I was able get up to 180 again, but I has just smashed a protein shake so I will chuck that one up to liquid weight.
 
