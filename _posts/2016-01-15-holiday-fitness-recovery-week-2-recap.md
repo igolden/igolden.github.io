@@ -3,7 +3,8 @@ layout: post
 title: Week 2 Recap - HFR 
 ---
 
-Week 2 has come and gone, and I'm back in the full swing of things. Here's how I scored out this week:
+Week 2 has came and went, and I'm back in the full swing of fitness. <br />
+*Here's how I scored out this week:*
 
 <table>
 <thead>
@@ -38,14 +39,14 @@ Week 2 has come and gone, and I'm back in the full swing of things. Here's how I
 
 ###Training
 
-This week I was able to get past the full body of soreness. After the first couple of weeks, my body starts to recover much faster, and I can feel the change happening.
+This week I was able to get past full body soreness, which happens when returning from a short time off. After these first couple of weeks, my body will start to recover much faster. I can feel this change happening.
 
 ---
 
 
 ###Nutrition
 
-Overall, the nutrition was great again. Didnt' track things to the exact macro, but stayed at 6 total meals a day and got creative with some of them. Also incorporated more fibrous carbs this week.
+My nutrition is absolutely bulletproof right now. Didn't track things to the exact macro, but stayed at 6 total meals a day and got creative with some of my prep. Also incorporated more fibrous carbs this week.
 
 
 ---
@@ -53,7 +54,6 @@ Overall, the nutrition was great again. Didnt' track things to the exact macro, 
 ###Supplements
 
 Didn't stay consistent with vitamins, but started adding 5g of creatine to my water each day, along with BCAA's.
-
 
 ---
 
@@ -66,7 +66,7 @@ Gallon + a day.
 
 ###Sleep
 
-Managed to get around 6 hrs of sleep every night. Could've been better if I made it consistent hours.
+Managed to score about 6 hrs of sleep every night. Could've been better if I made it consistent hours.
 
 ---
 
