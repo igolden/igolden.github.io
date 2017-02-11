@@ -30,4 +30,3 @@ Have questions or suggestions? Feel free to [open an issue on GitHub](https://gi
 Thanks for reading!
 
 
-# RCTCommit Comment
