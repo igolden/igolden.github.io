@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Why You Should <em>Really</em> Use Markdown (and care about Keystrokes)
 ---
 

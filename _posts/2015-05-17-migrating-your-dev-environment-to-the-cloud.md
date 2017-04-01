@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Moving Your Development Environment to the Cloud 
 ---
 

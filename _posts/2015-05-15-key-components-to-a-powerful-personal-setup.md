@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Key Components to a Powerful Personal Setup
 ---
 

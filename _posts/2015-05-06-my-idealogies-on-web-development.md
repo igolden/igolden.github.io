@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Three Ideas that Shaped My Views on Growing as a Developer
 ---
 

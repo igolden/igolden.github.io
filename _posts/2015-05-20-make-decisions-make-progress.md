@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Make Decisions Faster, Make More Progress
 ---
 

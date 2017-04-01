@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Baby Growth Hacking Lessons
 ---
 
