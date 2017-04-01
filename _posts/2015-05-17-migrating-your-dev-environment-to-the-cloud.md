@@ -9,18 +9,18 @@ I recently moved all of my development environment assets to a remote cloud loca
 3. Managing assets will become a BREEZE!
 4. Move between devices seamlessly and stress-free 
 
-###Your Setup -- On Google Drive
+### Your Setup -- On Google Drive
 This post is more about creating versatility and flexibility in your personal setup than anything. I want to take the time to overview how I've moved my personal setup to Google Drive over the last year, and why I chose to do that.
 
-###Why Did I Make the Move?
+### Why Did I Make the Move?
 Over the last 3 years, I've had to purchase dozens computers/devices. That means that I've setup my personal setup WAY too many times. After computer 3 or 4, I moved all of my dotfiles to bitbucket/github. After an external drive blew out on me, I looked for ways to host my assets and move them seamlessly between devices. Using Google Drive's locally hosted folders, I was able to create an efficient setup that is hosted in the cloud.
 
-###Why Google Drive?
+### Why Google Drive?
 Why not? Are you going to host on Dropbox? Be my guest, but Google Drive allowed me to keep everything centralized in my business email. Google Drive also has a fantastic API, which was my other motivation. If you're a newer developer, that won't be a game changer and any cloud service will work. 
 
 *Side Note - I developed an app using carrierwave-dropbox gem and it was hell to finish. We actualy migrated to carrierwave-aws because the Dropbox API was not awesome. So these factors contributed to my decision.*
 
-###Defining Your Assets
+### Defining Your Assets
 The first thing you need to do before getting started on migrating to a cloud setup is to define your assets. I needed to know what folders of mine I truly use during development. They were the following:
 
 + /dotfiles (my zsh/vim/git/etc settings) 
@@ -28,7 +28,7 @@ The first thing you need to do before getting started on migrating to a cloud se
 * /websites (contains source for my websites)
 * /notes (I keep a notes folder in my home directory where I take notes in vim)
 
-###Objectives
+### Objectives
 Ultimately, the criteria below is how i judged the success of the migration.
 
 1. When changes are saved on a device, they are synced to remote location.
@@ -106,7 +106,7 @@ ln -s /path/to/file/ /path/to/symlink/
 {% endhighlight %}
 
 
-###Linking this all together
+### Linking this all together
 Now that you understand the remote host setup, and we understand symlinks, you can link everything together to migrate seamlessly. Remember, we want this to be *silky smooth*. What's left?
 
 1. Make all of development directories link to a folder in the home directory, making them accesible through the Shell's intiial command line location.

@@ -15,7 +15,7 @@ Needless to say, I got through it. But it shook me up to realize that one simple
 
 Present day --- I still get pains in my right wrist up to the base of my middle/ring fingers. And that's something I have to live with.
 
-###Start Caring About Keystrokes
+### Start Caring About Keystrokes
 
 Ben Orenstein has a great <a href="https://youtu.be/SkdrYWhh-8s?t=239" target="new">talk about using Vim to save time</a>. And in that talk he mention how many keystrokes it takes to save a file in Vim (5) and how many times a developer might save a file in a decade (250,000). That being said each decade, saving files alone, we are using 1,250,000 keystrokes. 
 
@@ -23,11 +23,11 @@ Wow, I just gave myself arthritis writing that.
 
 With my wrist problems, I started to appreciate the importance of keystroke management. Go ahead and jump over to <a href="https://youtu.be/SkdrYWhh-8s?t=239" target="new">Ben's talk</a> to pick up some speed techniques in Vim, and also a good mindset on looking to the future of many years of healthy programming. I completely agree with Ben and his thoguht process behind finding ways to shorten your typing and increase your output.
 
-###So why use Markdown?
-
+### So why use Markdown?
+ 
 Because Markdown ultimately saves you time and keystrokes, making you a faster programmer with more longevity. Stop destroying your hands/wrists with mindless code repetition, ESPECIALLY if you're using jekyll daily like I do.
 
-###How does Markdown save you time?
+### How does Markdown save you time?
 
 Markdown is literally designed around the most repetitive tasks in formatting online --- text editing. That being said if you are a developer with a blog, you can save yourself so much headache and stay in the <s>terminal</s> *heaven* while you work.
 
