@@ -10,6 +10,23 @@ url:                 http://iangolden.com
 paginate:            3
 baseurl:             ""
 description:        The thoughts and ideas of Ian Golden. 
+signoff:          "muan" # Your name
+facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+share:            false # Turn on twitter and facebook share buttons
+
+links:
+  - name:         Posts
+    url:          /
+    external:     false
+  - name:         About me
+    url:          /about
+    external:     false
+
+permalink:        /posts/:title
+defaults:
+  - values:
+      layout: "default"
 
 # Assets
 #
@@ -28,6 +45,4 @@ author:
 version:             1.0.0
 github:             igolden
 
-
-
-# RCTCommit Comment
+gems: ['jekyll-paginate']
