@@ -2,7 +2,7 @@
 title:            "Ian Golden"
 description:      "Opinions and insights about software, business, and life."
 url:              http://iangolden.com # Site url, without a slash at the end.
-signoff:          "Ian Golden" # Your name
+signoff:          "@igolden" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
