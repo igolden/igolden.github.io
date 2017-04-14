@@ -21,7 +21,8 @@ Realistically, they shouldn't. But plenty of people will have to work with vi da
 So `set nocompatible` is described as such in the Vim docs:
 
 ```
-This option has the effect of making Vim either more Vi-compatible, or make Vim behave in a more useful way.
+This option has the effect of making Vim either more 
+Vi-compatible, or make Vim behave in a more useful way.
 ```
 
 You can see all of the the options related to nocompatible [here](http://vimdoc.sourceforge.net/htmldoc/options.html#'compatible').
