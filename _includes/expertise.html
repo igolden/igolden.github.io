@@ -1,0 +1,10 @@
+<div class="expertise">
+  <div class="columns content-wrapper content is-multiline">
+    {% for expertise in site.expertises  %}
+    <div class="column is-4 __expertise">
+      <h3 class="subtitle">{{ expertise.title }}</h3>
+      <p>{{ expertise.details }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</div>

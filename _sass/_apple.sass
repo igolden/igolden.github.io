@@ -1,0 +1,122 @@
+.holder
+  width: 100%
+  height: 500px
+  position: relative
+  display: block
+  background: linear-gradient(#b1b067, #807e2c)
+
+.apple-bounds
+  position: relative
+  height: 100%
+  right: 0
+
+.frame 
+  float: right
+  transform: rotate(2deg)
+  background-color: #ddc
+  border: solid 5vmin #eee
+  border-bottom-color: #fff
+  border-left-color: #eee
+  border-radius: 2px
+  border-right-color: #eee
+  border-top-color: #ddd
+  box-shadow: 0 0 5px 0 rgba(0,0,0,.25) inset, 0 75px 160px 5px rgba(0,0,0,.25)
+  box-sizing: border-box
+  display: inline-block
+  //margin: 10vh 10vw
+  padding: 8vmin
+  position: relative
+  text-align: center
+  &:before 
+    border-radius: 2px
+    bottom: -2vmin
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.25) inset
+    content: ""
+    left: -2vmin
+    position: absolute
+    right: -2vmin
+    top: -2vmin
+  
+  &:after 
+    border-radius: 2px
+    bottom: -2.5vmin
+    box-shadow:  0 2px 55px 0 rgba(0,0,0,.25)
+    content: ""
+    left: -2.5vmin
+    position: absolute
+    right: -2.5vmin
+    top: -2.5vmin
+  
+
+#apple
+  max-height: 100%
+  max-width: 100%
+  height: 36vh
+  border: solid 2px
+  border-bottom-color: #ffe
+  border-left-color: #eed
+  border-right-color: #eed
+  border-top-color: #ccb
+.cls-1, .cls-2, .cls-3, .cls-4, .cls-5
+  animation: reveal 1s linear forwards
+  opacity: 0
+.cls-6
+  animation: reveal 1s linear forwards
+  animation-delay: .5s
+  opacity: 0
+.cls-7
+  animation: reveal 1s linear forwards
+  animation-delay: .75s
+  opacity: 0
+.cls-8
+  animation: reveal 1s linear forwards
+  animation-delay: 1s
+  opacity: 0
+.cls-9
+  animation: reveal 1s linear forwards
+  animation-delay: 1.5s
+  opacity: 0
+.cls-10
+  animation: reveal 1s linear forwards
+  animation-delay: 1.75s
+  opacity: 0
+.cls-11
+  animation: reveal 1s linear forwards
+  animation-delay: 2s
+  opacity: 0
+.cls-12
+  animation: reveal 1s linear forwards
+  animation-delay: 2.5s
+  opacity: 0
+.cls-13
+  animation: reveal 1s linear forwards
+  animation-delay: 1s
+  opacity: 0
+.cls-14
+  animation: reveal 1s linear forwards
+  animation-delay: 3.5s
+  opacity: 0
+.cls-15
+  animation: reveal 1s linear forwards
+  animation-delay: 4s
+  opacity: 0
+.cls-16
+  animation: reveal 1s linear forwards
+  animation-delay: 4.5s
+  opacity: 0
+    
+@keyframes reveal
+  0%
+    opacity: 0
+  100%
+    opacity: 1
+    
+
+.apple-wrapper
+  max-width: 86%
+  display: block
+  margin: 0 auto
+  padding: 30px 0 30px 0 
+
+.msg
+  padding: 00px 80px 0
