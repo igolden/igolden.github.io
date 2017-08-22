@@ -6,7 +6,7 @@ collections:
   expertises:
     output: false
 
-paginate: 5
+paginate: 7
 paginate_path: "/blog/:num/"
 
 
