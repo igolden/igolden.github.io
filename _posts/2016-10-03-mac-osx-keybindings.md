@@ -1,5 +1,9 @@
 ---
+layout: post
 title: Max OSX Keybindings
+tags:
+  - osx
+  - productivity
 ---
 
 As a software developer with some wrist pain (skateboarding, tennis, etc), I want to talk about a few key keybindings I use. Keybindings can greatly reduce key stretch and help reduce the overall impact on your wrists.

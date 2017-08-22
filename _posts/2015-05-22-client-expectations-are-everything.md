@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Client Expecations are Everything
+tags:
+  - misc
 ---
  
 I've freelanced seriously for about 6 years, and in total about 8. Over those years, I've worked from hundreds of people to create, improve, or rework their online presence. I've found that the clients who have very clear expectations (guided by me) were the easiest to work with. It was the clients with the highest expectations (huge ROI, short deadline) that tended to be the hardest to work with and ultimately would get the least value.

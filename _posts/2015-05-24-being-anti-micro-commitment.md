@@ -1,5 +1,9 @@
 ---
+layout: post
 title: Be Anti Micro-Commitment
+tags:
+  - misc
+  - productivity
 ---
 
 Today, in this scroll happy world, I thought I'd take a second to address the trend of single page design (long form sales pages), why they work, and how to push yourself to avoid creating "micro-commitments" that separate your user and your product. 

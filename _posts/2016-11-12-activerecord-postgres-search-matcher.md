@@ -1,5 +1,10 @@
 ---
+layout: post
 title: Using PostgreSQL Matchers in ActiveRecord
+tags:
+  - ruby
+  - rails
+  - postgres
 ---
 
 The other day, I needed to search strings in my PostgreSQL database for substrings. This has since become a recurring pattern and I've been using it virtually every day now.

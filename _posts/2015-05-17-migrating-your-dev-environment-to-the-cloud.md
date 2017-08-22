@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Moving Your Development Environment to the Cloud 
+tags:
+  - productivity
 ---
 
 I recently moved all of my development environment assets to a remote cloud location (Google Drive). Do you change devices often for work? Then you need to do this. After you're done making the move, you'll be able to:

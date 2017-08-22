@@ -1,5 +1,9 @@
 ---
+layout: post
 title: MacDown App & a nice little alias
+tags:
+  - osx
+  - productivity
 ---
 
 The other day I discovered [MacDown](https://macdown.uranusjr.com/), a markdown client for Mac. Since I work at a software consultancy that heavily utilizes jekyll and markdown for day to day communication, this was a _godsend_.

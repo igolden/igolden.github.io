@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Creating empty classes as oneliners"
+tags:
+  - ruby
 ---
 
 I like to follow the community styleguide in ruby -> [Style Guide](https://github.com/bbatsov/ruby-style-guide)

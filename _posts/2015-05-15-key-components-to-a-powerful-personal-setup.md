@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Key Components to a Powerful Personal Setup
+tags:
+  - productivity
 ---
 
 Your personal programming environment is going to determine a lot of factors in how your work as a web developer. When someone showed me the terminal (and jekyll) my life profoundly changed as a developer.

@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Starting Gem builds with 'bundle init'
+tags:
+  - ruby
 ---
 
 I've been building a lot of tiny gems lately to script out some basic stuff. It's super easy, super powerful, and a lot of fun. I thought I'd share a few tips and tricks to get you rolling out your gem init.

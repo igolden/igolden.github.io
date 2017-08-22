@@ -1,5 +1,9 @@
 ---
+layout: post
 title: Custom Bundler Configs
+tags:
+  - ruby
+  - bundler
 ---
 
 Custom Bundler Configs

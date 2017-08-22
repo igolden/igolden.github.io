@@ -1,5 +1,8 @@
 ---
+layout: post
 title: URL params for logging into gmail/hangouts
+tags:
+  - misc
 ---
 
 I'm basically always logged into 4-8 google accounts at any given time. Bouncing between hangouts, drive, and mail can be confusing and annoying. 

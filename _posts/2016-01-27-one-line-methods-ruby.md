@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "One line methods ruby"
 categories: ["backpost", "ruby"]
 ---

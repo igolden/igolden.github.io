@@ -1,5 +1,9 @@
 ---
+layout: post
 title: Annoying rails select helper html options
+tags:
+  - ruby
+  - rails
 ---
 
 If you've built rails apps this should seem familiar to you:

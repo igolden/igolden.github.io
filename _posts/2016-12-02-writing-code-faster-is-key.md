@@ -1,5 +1,9 @@
 ---
+layout: post
 title: Increase your coding speed
+tags:
+  - productivity
+  - misc
 ---
 
 Let's face it. As a professional software engineer, and _especially_ a professional contract software engineer, the speed at which you work is important. We all hate it hear it, but it's the truth. And its the same reason managers are always arguing with developers about things they know nothing on... unit tests, devops, etc.

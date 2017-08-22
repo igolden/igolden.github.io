@@ -1,5 +1,9 @@
 ---
+layout: post
 title: My Renewed Commitment to Cybersecurity
+tags:
+  - security
+  - misc
 ---
 
 Yesterday I submitted my eligibility application for a new certification, the CEH or Certified Ethical Hacker.

@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Split Strings into chars ruby
+tags:
+  - ruby
 ---
 
 Splitting strings into chars is a common programming application, especially if you're parsing a lot of text or reading line by line. Below is a couple examples from the other day I used to split strings in ruby.

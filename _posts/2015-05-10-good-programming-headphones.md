@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Good Programming Headphones
+tags:
+  - misc
 ---
 
 

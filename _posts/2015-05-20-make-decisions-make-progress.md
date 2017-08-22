@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Make Decisions Faster, Make More Progress
+tags:
+  - productivity
 ---
 
 Over the years, I've realized that there are certain things you need to do to push a project along faster, and ultimately make more progress than others in life and in business. Constantly focusing on these characteristics have helped me grow my business:

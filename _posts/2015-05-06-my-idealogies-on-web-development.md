@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Three Ideas that Shaped My Views on Growing as a Developer
+tags:
+  - misc
 ---
 
 This website will serve as a platform for me to speak and develop my *personal* ideas, opinions, and methodologies surrounding business and technology development. Over the next 5 years I'm going to make a very concious effort to grow in all aspects as both an entrepreneur and a web developer.

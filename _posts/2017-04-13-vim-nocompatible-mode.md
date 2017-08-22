@@ -1,5 +1,10 @@
 ---
+layout: post
 title: Vim set nocompatible mode
+tags:
+  - vim
+  - unix
+  - tips
 ---
 
 

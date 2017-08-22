@@ -1,6 +1,8 @@
 ---
+layout: post
 title: "FileUtils -- #touch"
-categories: ["backpost", "ruby"]
+tags:
+  - ruby
 ---
 
 Was on the FileUtils docs the other day, found a neat little 'shell-like' method in ruby.

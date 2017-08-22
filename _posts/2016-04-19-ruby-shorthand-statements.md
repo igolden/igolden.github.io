@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Ruby shorthand statements
+tags:
+  - ruby
 ---
 
 Ruby has a few ways to write shorthand if/else and control flow statements. I've really come to like JS's shorthand statements, and have since adopted oneliners in ruby wherever I can. Just putting this code here for reference later.

@@ -1,6 +1,8 @@
 ---
+layout: post
 title: "Assigning Conditionals to Variables"
-categories: ["backpost", "ruby"]
+tags:
+  - ruby
 ---
 
 

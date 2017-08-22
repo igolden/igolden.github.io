@@ -1,5 +1,9 @@
 ---
+layout: post
 title: Baby Growth Hacking Lessons
+tags:
+  - growth
+  - productivity
 ---
 
 Even the little hacks are fun, and they can teach you a lot.

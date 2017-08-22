@@ -1,5 +1,9 @@
 ---
+layout: post
 title: Why You Should <em>Really</em> Use Markdown (and care about Keystrokes)
+tags:
+  - productivity
+  - misc
 ---
 
 Spoiler alert... It's because your time *actually matters*.

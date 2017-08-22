@@ -1,5 +1,9 @@
 ---
+layout: post
 title: Ways to Distribute Your Code
+tags:
+  - misc
+  - unix
 ---
 
 There's a lot of ways to distrubute code. In this post, I care most about portablity and least about ease of use.
