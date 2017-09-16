@@ -19,17 +19,34 @@ layout: default
   {% endfor %}
   <div class="columns content">
     <div class="column">
-      <h2 class="subtitle is-2 xp has-text-centered">Projects & Experience</h2>
+      <h2 class="subtitle is-2 xp">Current Projects</h2>
     </div>
   </div>
-  {% for project in site.projects %}
+  {% for project in site.current_projects %}
   <div class="columns content project">
     <div class="column is-2">
       <img src="http://placehold.it/250x250/fcb45d?text=+" alt="image" class="project-icon" />
     </div>
     <div class="column">
-      <h3 class="title is-3">{{project.title}}</h3>
+      <h2 class="title is-3">{{project.title}}</h3>
       <p class="lead subtitle is-5">{{project.lead}}</p>
+      <p class="details">{{project.details}}</p>
+      {{project.content}}
+    </div>
+  </div>
+  {% endfor %}
+  <div class="columns content">
+    <div class="column">
+      <h2 class="subtitle is-2 xp">Past Projects</h2>
+    </div>
+  </div>
+  {% for project in site.past_projects %}
+  <div class="columns content past-project">
+    <div class="column is-1">
+      <img src="http://placehold.it/250x250/fcb45d?text=+" alt="image" class="project-icon" />
+    </div>
+    <div class="column">
+      <h3 class="title is-3">{{project.title}} <span>({{project.year}})</span></h3>
       <p class="details">{{project.details}}</p>
       {{project.content}}
     </div>

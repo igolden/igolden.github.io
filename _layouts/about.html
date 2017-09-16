@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+{% include about_header.html %}
+<div class="about-wrapper">
+  <div class="about-holder">
+    <div class="columns content">
+      <div class="column">
+        <h1 class="title is-2 about-title">{{page.title}}</h1>
+        <div class="meta">
+          <p class="about-date">{{page.date | date: "%a, %b %d, %y"}} </p>
+          <ul class="about-tags">
+            {% for tag in page.tags %}
+              <li>{{tag}}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="about-body">
+          {{content}}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include hire_me.html %}

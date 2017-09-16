@@ -1,7 +1,9 @@
 collections:
   sections:
     output: false
-  projects:
+  current_projects:
+    output: false
+  past_projects:
     output: false
   expertises:
     output: false
