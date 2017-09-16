@@ -2,8 +2,6 @@
 layout: about
 ---
 
-# About
-
 ## Senior Software Engineer <span> => available for <a href="mailto:ian@iangolden.com">contract hire</a>.</span>
 Ian Golden is a software engineer and entrepreneur living in Denver, Colorado. Originally the Quad Cities, he freelanced his way through high school and received a full-tution scholarship to the Miller College of Entrepreneurship at Ball State. After 2 more years of freelancing in college, he left school for Indianapolis to pursue his business full time in 2012. 
 
