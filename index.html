@@ -25,7 +25,7 @@ layout: default
   {% for project in site.current_projects %}
   <div class="columns content project">
     <div class="column is-2">
-      <img src="http://placehold.it/250x250/fcb45d?text=+" alt="image" class="project-icon" />
+      <img src="/images/{{project.image_slug}}.png" alt="image" class="project-icon" />
     </div>
     <div class="column">
       <h2 class="title is-3">{{project.title}}</h3>
@@ -43,7 +43,7 @@ layout: default
   {% for project in site.past_projects %}
   <div class="columns content past-project">
     <div class="column is-1">
-      <img src="http://placehold.it/250x250/fcb45d?text=+" alt="image" class="project-icon" />
+      <img src="/images/{{project.image_slug}}.png" alt="image" class="project-icon" />
     </div>
     <div class="column">
       <h3 class="title is-3">{{project.title}} <span>({{project.year}})</span></h3>
