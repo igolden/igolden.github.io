@@ -1,6 +1,6 @@
 ---
-title: Headless TV
-lead: Open source projects via live stream 
+title: Headless Technology
+lead: Software & Open Source for IoT, AR/VR, and iOS/OSX. 
 image_slug: headless
-details: Joined team at Bowtie mid 2016 as VP of Engineering. Inherited large code base and took responsibility for bugs and patches. 
+details: headless technology focuses on building software for bleeding-edge technologies, like augmented reality, virtual reality, and iot/constrained devices.
 ---
