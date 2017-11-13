@@ -1,5 +1,5 @@
 ---
-title: Onward to 2018 with this Blog
+title: Onward to 2018 
 layout: post
 tags: 
   - update
