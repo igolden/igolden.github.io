@@ -1,8 +1,8 @@
 ---
 section_id: react
 title: Javascript
-lead: The king of the browser, and much more. I use javascript for more of my clients. 
-details: Javascript has completely changed since 2015. It truly is the language of the web, but now it's become the pinnacle of cross-platform support. I love using javascript for hacking the browser, AWS lambdas, and interactive clis.   
+lead: The king of the browser, and much more. JS is wildly useful language.
+details: Javascript has completely changed since 2015. It truly is the language of the web, but now it's proven itself as **the** leader of cross-platform programming. I always lean on JS for client-facing programming. 
 ---
 
 * **React** - Vast production experience with React: PropTypes, Flow, Jest, Component lifecycle. 
@@ -11,4 +11,4 @@ details: Javascript has completely changed since 2015. It truly is the language 
 * **Server Rendering** - Used SSR to increase SEO compatibility and tweak performance. 
 * **Tests** - Huge fan of React test ecosystem. Jest (snapshots), mocha, chai, enzyme, etc. 
 * **Express** - APIs backed by Mongo, Postgres, MySQL, etc. Used common middleware.
-* **Plain JS** - Experience in old-school js, including browser tricks, jquery :(, addChild. 
+* **Plain JS** - Experience in old-school js, including browser tricks, jquery (meh), addChild. 

@@ -1,7 +1,7 @@
 ---
 section_id: ror
 title: Ruby
-lead: A fantastic language for the web, and an underrated language for power scripting. 
+lead: A fantastic language for the web, scripting, and rapid development.
 details: Most people see Ruby and Rails as one and the same. Even more, most developers see Ruby as a tool for the web, but it's so much more. Since 2012, I've been using Ruby for web development, automation, research, and fun.
 ---
 

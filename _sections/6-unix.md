@@ -1,9 +1,9 @@
 ---
 section_id: unix
 title: UNIX
-lead: My programming life clicked with I "saw the light" in UNIX. Now, I live in the terminal.
+lead: Very comfortable on UNIX/POSIX filesystems. Scripter, Vimmer, shells.
 
-details: I belive there's something elegant in utter simplicity. Some call it brutalism, I call it efficiency. In the world of computers, the terminal is a true and direct communcation line to your operating system, why wrap it?
+details: I belive there's something elegant in utter simplicity. Some call it brutalism, I call it efficiency. In the world of computers, that's the terminal. Understanding the terminal and underlying filesystem is a core concept of writing software.
 ---
 
 * **Bash/Zsh** - Comfortable working in all shells, very experienced with zsh and bash.
