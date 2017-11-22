@@ -1,5 +1,5 @@
 ---
-title: New Series: Programming Bookshelf
+title: Programming Bookshelf
 layout: post
 tags: 
   - update
